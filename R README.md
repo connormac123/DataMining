@@ -1,10 +1,11 @@
 # Overview
+For this project I wanted to be better at analizying large databases and finding trends in said data. 
+I also wanted to present it in an organized fashion such as a line plot or bar graph. 
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The software that I ended up writing was a program that emulated housing prices and interest rates. the rates are set in the program 
+and the results display on a linegraph. 
 
-{Provide a description of the software that you wrote to demonstrate the R language.}
-
-{Describe your purpose for writing this software.}
+The purpose for writing this program was to get a better idea on how to work with R and realize the potential of coding to research and analize data. 
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,21 +13,23 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VS code for my IDE.
 
-{Describe the programming language that you used and any libraries.}
+I used R for my language and ggplot2 for my library. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
 https://code.visualstudio.com/docs/languages/r#:~:text=Getting%20started&text=For%20Windows%20users%2C%20it%20is,Install%20languageserver%20in%20R.&text=Install%20the%20R%20extension%20for,R%20file%20and%20start%20coding.
-- [Web Site Name](http://url.link.goes.here)
+- 
+https://cran.r-project.org/manuals.html
+
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+-I want to add and implement actual data to the data base. 
+ I want to find a better way to display all of my graphs.
+ A better way to make a more user friendly U.I  
